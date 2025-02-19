@@ -2,7 +2,7 @@
 - 👀 I’m interested in **software development, open-source projects, and exploring new technologies**.
 - 🌱 I’m currently learning **Python, JavaScript, and cloud computing**.
 - 💞️ I’m looking to collaborate on **open-source projects, web development, and AI/ML applications**.
-- 📫 How to reach me: **minnu123sg@example.com** (replace with your actual email or social media links).
+- 📫 How to reach me: **minnusimonmsg@gmail.com** (replace with your actual email or social media links).
 - 😄 Pronouns: **She/Her** (or your preferred pronouns).
 - ⚡ Fun fact: **I love solving puzzles and playing chess in my free time!**
 
