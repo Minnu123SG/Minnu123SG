@@ -10,7 +10,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: Python, JavaScript, Java, C++
-- **Web Development**: HTML, CSS, React, Node.js
+- **Web Development**:  React, Node.js
 - **Tools & Platforms**: Git, Docker, AWS, VS Code
 - **Databases**: MySQL, MongoDB
 
@@ -26,18 +26,7 @@
 
 ---
 
-### 🌟 Featured Projects
-- [Project 1](https://github.com/Minnu123SG/project1): A brief description of your project.
-- [Project 2](https://github.com/Minnu123SG/project2): Another cool project you’ve worked on.
 
----
-
-### 🤝 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) (replace with your LinkedIn profile)
-- [Twitter](https://twitter.com/yourhandle) (replace with your Twitter handle)
-- [Portfolio](https://yourportfolio.com) (replace with your personal website or portfolio)
-
----
 
 <!---
 Minnu123SG/Minnu123SG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
