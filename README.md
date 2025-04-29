@@ -1,17 +1,17 @@
 - 👋 Hi, I’m **Minnu123SG**!
 - 👀 I’m interested in **software development, open-source projects, and exploring new technologies**.
-- 🌱 I’m currently learning **Python, JavaScript, and cloud computing**.
+- 🌱 I’m currently learning **Python and JavaScript**.
 - 💞️ I’m looking to collaborate on **open-source projects, web development, and AI/ML applications**.
-- 📫 How to reach me: **minnusimonmsg@gmail.com** (replace with your actual email or social media links).
-- 😄 Pronouns: **She/Her** (or your preferred pronouns).
-- ⚡ Fun fact: **I love solving puzzles and playing chess in my free time!**
+- 📫 How to reach me: **minnusimonmsg@gmail.com** .
+- 😄 Pronouns: **She** .
+  
 
 ---
 
 ### 🛠️ Tech Stack
 - **Languages**: Python, JavaScript, Java
 - **Web Development**:  React, Node.js
-- **Tools & Platforms**: Git, Docker, AWS, VS Code
+- **Tools & Platforms**: Git,VS Code
 - **Databases**: MySQL, MongoDB
 
 ---
