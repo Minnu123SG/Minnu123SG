@@ -9,7 +9,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, Java, C++
+- **Languages**: Python, JavaScript, Java
 - **Web Development**:  React, Node.js
 - **Tools & Platforms**: Git, Docker, AWS, VS Code
 - **Databases**: MySQL, MongoDB
