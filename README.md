@@ -1,7 +1,6 @@
 - 👋 Hi, I’m **Minnu123SG**!
-- 👀 I’m interested in **software development, open-source projects, and exploring new technologies**.
+- 👀 I’m interested in **software development and exploring new technologies**.
 - 🌱 I’m currently learning **Python and JavaScript**.
-- 💞️ I’m looking to collaborate on **open-source projects, web development **.
 - 📫 How to reach me: **minnusimonmsg@gmail.com** .
 - 😄 Pronouns: **She** .
   
